@@ -1,0 +1,8 @@
+# Enviroment
+.venv/
+
+# input
+db/
+
+# Visual Studio Code
+.vscode/
